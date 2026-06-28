@@ -35,26 +35,6 @@
 - 🗄️ Strong in **Advanced SQL and Python for data processing and transformation**
 - 📌 **Open to Intern roles:** Data Engineer · Analytics Engineer · Cloud Data · Azure Data Platform
 
----
-
-
-
-## 🚀 Featured Project
-
-### AI-Powered RAG Study Assistant
-
-**Tech:** `Python` `Flask` `Vector Search` `LLMs` `ETL Pipeline`
-
-**End-to-end data pipeline:**
-```
-Video → Audio → Transcription → Chunking → Embeddings → Vector Store → LLM Response
-```
-
-- Built a complete **data ingestion and processing pipeline** for 18+ long educational videos
-- Implemented **semantic retrieval** using cosine similarity search on vector embeddings
-- Exposed pipeline outputs via **Flask REST APIs** for downstream consumption
-
-🔗 [GitHub Repo](https://github.com/avinash-kamble-9/rag-ai-study-assistant) · 🎥 [Demo Video](https://www.youtube.com/watch?v=Jck2tLjsFEA)
 
 ---
 
