@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6A7&height=220&section=header&text=Avinash%20Kamble&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Azure%20Data%20Engineer%20%7C%20Intern%20Ready&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6A7&height=220&section=header&text=Avinash%20Kamble&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Intern%20Ready&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00C6A7&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+reliable+pipelines;Bronze+%E2%86%92+Silver+%E2%86%92+Gold+%7C+Medallion+Architecture;ADF+%C2%B7+Synapse+%C2%B7+Databricks+%C2%B7+PySpark+%C2%B7+SQL;Open+to+Data%2FAnalytics+Engineering+Internships" alt="Typing SVG" />
 
