@@ -1,93 +1,191 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=860&lines=Hi%2C+I'm+Avinash+Kamble;Azure+Data+Engineer+%7C+Intern+Ready;ADF+%7C+Synapse+%7C+Databricks+%7C+PySpark;Building+Cloud-Native+Data+Pipelines" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6A7&height=220&section=header&text=Avinash%20Kamble&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Azure%20Data%20Engineer%20%7C%20Intern%20Ready&descAlignY=58&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00C6A7&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+reliable+pipelines;Bronze+%E2%86%92+Silver+%E2%86%92+Gold+%7C+Medallion+Architecture;ADF+%C2%B7+Synapse+%C2%B7+Databricks+%C2%B7+PySpark+%C2%B7+SQL;Open+to+Data%2FAnalytics+Engineering+Internships" alt="Typing SVG" />
 
 <br/>
 
-### Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/avinashzz/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn — Avinash Kamble"/>
+    <img src="https://img.icons8.com/color/96/linkedin-circled--v1.png" width="50"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:letstalk.avii@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" title="letstalk.avii@gmail.com"/>
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="50"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/avinash-kamble-9" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub — avinash-kamble-9"/>
+    <img src="https://img.icons8.com/ios-glyphs/90/000000/github.png" width="50"/>
   </a>
 </p>
+
+
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👋 About Me
+
+I'm an **IT Engineering student** who builds **cloud-native data pipelines on Azure** — turning messy raw data into clean, trustworthy, query-ready datasets.
+
+```yaml
+role: Aspiring Azure Data Engineer
+focus: ELT/ETL pipelines · Medallion Architecture · Lakehouse design
+stack: Azure Data Factory · Synapse Analytics · Databricks · PySpark · Delta Lake
+languages: Python · Advanced SQL
+status: 🟢 Open to Data Engineer / Analytics Engineer / Cloud Data internships
+location: Mumbai, India · open to remote
+```
+
+- 🏗️ Designing **Bronze → Silver → Gold** lakehouse pipelines end-to-end
+- ☁️ Hands-on with **ADF, Synapse Analytics, ADLS Gen2 & Databricks**
+- ⚡ Comfortable moving between **PySpark transformations** and **advanced SQL** modeling
+- 📌 Actively building a portfolio of real pipeline projects — not just tutorials
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔄 How I Think About a Pipeline
+
+<div align="center">
+
+```
+ ┌────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+ │  RAW DATA  │ ──▶ │   🥉 BRONZE   │ ──▶ │   🥈 SILVER   │ ──▶ │   🥇 GOLD     │
+ │ APIs/Files │     │  Raw ingest   │     │ Cleaned &     │     │ Business-     │
+ │  Databases │     │  ADLS Gen2    │     │ conformed     │     │ ready marts   │
+ └────────────┘     └──────┬───────┘     └──────┬───────┘     └──────┬───────┘
+                            │  ADF / Databricks     │  PySpark + SQL      │  Synapse
+                            └────────────────────────┴─────────────────────┘
+                                     orchestrated · versioned · monitored
+```
 
 </div>
 
 ---
 
-## 👋 About Me
+### 🧠 Tech Stack
 
-> *I design and build cloud-native data pipelines on Azure — transforming raw data into reliable, scalable insights.*
+<table>
+<tr><td valign="top" width="50%">
 
-- 🎓 **IT Engineering Student** — targeting **Azure Data Engineer / Analytics Engineer / Cloud Data Intern**
-- ☁️ Hands-on with **Azure Data Factory · Azure Synapse Analytics · ADLS Gen2 · Azure Databricks**
-- ⚡ Building **end-to-end ELT/ETL pipelines** using **PySpark, Delta Lake, and Advanced SQL**
-- 🏗️ Learning **Medallion Architecture (Bronze → Silver → Gold)** for enterprise data platforms
-- 🗄️ Strong in **Advanced SQL and Python for data processing and transformation**
-- 📌 **Open to Intern roles:** Data Engineer · Analytics Engineer · Cloud Data · Azure Data Platform
+**☁️ Azure Data Platform**
+<p>
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Synapse_Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADLS_Gen2-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white"/>
+</p>
 
+**⚙️ Data Engineering**
+<p>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Medallion_Architecture-0078D4?style=flat-square"/>
+</p>
 
----
+</td><td valign="top" width="50%">
 
-## 🧠 Tech Stack
+**💻 Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced_SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
-### ☁️ Azure Data Platform
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![ADLS Gen2](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
+**🗄️ Databases**
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
----
+**🧰 Tools & DevOps**
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
 
-### ⚙️ Data Engineering
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![ETL Pipelines](https://img.shields.io/badge/ETL_/_ELT_Pipelines-0A66C2?style=for-the-badge)
-![Medallion Architecture](https://img.shields.io/badge/Medallion_Architecture-0078D4?style=for-the-badge)
-
----
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/Advanced_SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-
----
-
-### 📊 Data Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+</td></tr>
+</table>
 
 ---
 
-### 🧰 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### 🏗️ Featured Portfolio Projects
+
+> Three end-to-end **Medallion Architecture** builds on Azure — the centerpiece of my portfolio. Update the links below once each repo is live.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🥉 Project 1 — Bronze/Ingest**
+Raw data landing pipeline into ADLS Gen2 with ADF orchestration.
+<br/><br/>
+`ADF` `ADLS Gen2` `Python`
+<br/><br/>
+[🔗 View Repo](#)
+
+</td>
+<td width="33%" valign="top">
+
+**🥈 Project 2 — Silver/Transform**
+Cleaning & conforming data with PySpark + Delta Lake on Databricks.
+<br/><br/>
+`Databricks` `PySpark` `Delta Lake`
+<br/><br/>
+[🔗 View Repo](#)
+
+</td>
+<td width="33%" valign="top">
+
+**🥇 Project 3 — Gold/Serve**
+Business-ready marts modeled and queried through Synapse Analytics.
+<br/><br/>
+`Synapse` `SQL` `dbt`
+<br/><br/>
+[🔗 View Repo](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
+### 📊 GitHub Stats
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=avinash-kamble-9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-kamble-9&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-kamble-9&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+
+</div>
+
+---
 
 <div align="center">
 
 ### 🚀 Open to Data Engineer · Analytics Engineer · Cloud Data Intern Roles
 **Available for immediate start · Mumbai, India · Open to remote**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6A7,100:0078D4&height=120&section=footer" width="100%"/>
 
 </div>
