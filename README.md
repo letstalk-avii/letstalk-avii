@@ -34,28 +34,18 @@
 
 I'm an **IT Engineering student** who builds **cloud-native data pipelines on Azure** — turning messy raw data into clean, trustworthy, query-ready datasets.
 
-```yaml
-role: Aspiring Azure Data Engineer
-focus: ELT/ETL pipelines · Medallion Architecture · Lakehouse design
-stack: Azure Data Factory · Synapse Analytics · Databricks · PySpark · Delta Lake
-languages: Python · Advanced SQL
-status: 🟢 Open to Data Engineer / Analytics Engineer / Cloud Data internships
-location: Mumbai, India · open to remote
-```
+- 🎯 **Role I'm targeting:** Azure Data Engineer / Analytics Engineer / Cloud Data Intern
+- 🏗️ **Focus:** ELT/ETL pipelines · Medallion Architecture · Lakehouse design
+- ☁️ **Stack:** Azure Data Factory · Synapse Analytics · Databricks · PySpark · Delta Lake
+- 💻 **Languages:** Python · Advanced SQL
+- 🟢 **Status:** Open to Data Engineer / Analytics Engineer / Cloud Data internships
+- 📍 **Location:** Mumbai, India · open to remote
 
-- 🏗️ Designing **Bronze → Silver → Gold** lakehouse pipelines end-to-end
-- ☁️ Hands-on with **ADF, Synapse Analytics, ADLS Gen2 & Databricks**
-- ⚡ Comfortable moving between **PySpark transformations** and **advanced SQL** modeling
-- 📌 Actively building a portfolio of real pipeline projects — not just tutorials
+<br/>
 
-</td>
-<td width="40%" valign="top" align="center">
-
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
