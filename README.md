@@ -43,8 +43,12 @@ I'm an **IT Engineering student** who builds **cloud-native data pipelines on Az
 
 <br/>
 
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%"/>
+  
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="380">
+
+
 </div>
 
 ---
@@ -114,60 +118,6 @@ I'm an **IT Engineering student** who builds **cloud-native data pipelines on Az
 
 </td></tr>
 </table>
-
----
-
-### 🏗️ Featured Portfolio Projects
-
-> Three end-to-end **Medallion Architecture** builds on Azure — the centerpiece of my portfolio. Update the links below once each repo is live.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🥉 Project 1 — Bronze/Ingest**
-Raw data landing pipeline into ADLS Gen2 with ADF orchestration.
-<br/><br/>
-`ADF` `ADLS Gen2` `Python`
-<br/><br/>
-[🔗 View Repo](#)
-
-</td>
-<td width="33%" valign="top">
-
-**🥈 Project 2 — Silver/Transform**
-Cleaning & conforming data with PySpark + Delta Lake on Databricks.
-<br/><br/>
-`Databricks` `PySpark` `Delta Lake`
-<br/><br/>
-[🔗 View Repo](#)
-
-</td>
-<td width="33%" valign="top">
-
-**🥇 Project 3 — Gold/Serve**
-Business-ready marts modeled and queried through Synapse Analytics.
-<br/><br/>
-`Synapse` `SQL` `dbt`
-<br/><br/>
-[🔗 View Repo](#)
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=avinash-kamble-9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-kamble-9&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-kamble-9&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
-</div>
 
 ---
 
