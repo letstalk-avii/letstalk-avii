@@ -109,10 +109,12 @@ I'm an **IT Engineering student** who builds **cloud-native data pipelines on Az
 ---
 
 <div align="center">
+  
+<br/><br/>
 
-### 🚀 Open to Data Engineer · Analytics Engineer · Cloud Data Intern Roles
-**Available for immediate start · Mumbai, India · Open to remote**
+<img src="./assets/banner.svg" width="100%" alt="avinash@pipeline terminal banner"/>
 
+<br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6A7,100:0078D4&height=120&section=footer" width="100%"/>
 
 </div>
