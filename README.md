@@ -44,29 +44,13 @@ I'm an **IT Engineering student** who builds **cloud-native data pipelines on Az
 <br/>
 
 
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="380">
 
-
-</div>
 
 ---
-
-### 🔄 How I Think About a Pipeline
-
 <div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width=100%>
 
-```
- ┌────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
- │  RAW DATA  │ ──▶ │   🥉 BRONZE   │ ──▶ │   🥈 SILVER   │ ──▶ │   🥇 GOLD     │
- │ APIs/Files │     │  Raw ingest   │     │ Cleaned &     │     │ Business-     │
- │  Databases │     │  ADLS Gen2    │     │ conformed     │     │ ready marts   │
- └────────────┘     └──────┬───────┘     └──────┬───────┘     └──────┬───────┘
-                            │  ADF / Databricks     │  PySpark + SQL      │  Synapse
-                            └────────────────────────┴─────────────────────┘
-                                     orchestrated · versioned · monitored
-```
 
 </div>
 
