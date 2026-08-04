@@ -47,14 +47,48 @@ I'm an **IT Engineering student** who builds **cloud-native data pipelines on Az
 
 
 ---
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width=100%>
+## 🏗️ Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚕 RideStream — Uber Data Platform
+**Real-time + batch Medallion pipeline on Azure**
+
+- Combines real-time **Azure Event Hubs** streams with batch data using **Azure Data Factory** and **Databricks**
+- Metadata-driven ingestion framework dynamically processes **7+ JSON mapping datasets**
+- Processes **2,000+ ride records** end-to-end
+- Dimensional model: **1 fact + 6 dimension tables**, using AUTO CDC Flow for **SCD Type 1 & 2** in Delta Lake
+
+`ADF` `Event Hubs` `Databricks` `PySpark` `Delta Lake`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 DataForge — Commerce Data Platform
+**CDC-driven Lakehouse for retail data**
+
+- **CDC-based incremental ingestion** from PostgreSQL into a Databricks Lakehouse
+- Processes **300K+ retail records** through Bronze → Silver → Gold layers
+- **dbt-based Star Schema** Gold models for analytics-ready data
+- Fully containerized **Docker** dev environment, orchestrated with **Airflow**
+
+`Airflow` `Databricks` `dbt` `PostgreSQL` `Docker`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*More Medallion Architecture projects in progress — check pinned repos for the latest ⬇️*
 
 </div>
 
 ---
+
+
 
 ### 🧠 Tech Stack
 
