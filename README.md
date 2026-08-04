@@ -80,11 +80,7 @@ I'm an **IT Engineering student** who builds **cloud-native data pipelines on Az
 </tr>
 </table>
 
-<div align="center">
 
-*More Medallion Architecture projects in progress — check pinned repos for the latest ⬇️*
-
-</div>
 
 ---
 
